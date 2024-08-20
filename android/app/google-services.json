@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906325120790",
+    "project_id": "tradipharma-300ee",
+    "storage_bucket": "tradipharma-300ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906325120790:android:7971fea7d14bbfcae66237",
+        "android_client_info": {
+          "package_name": "com.mycompany.tradipharma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXHozoNoDH4_FbKqTX6CnWAGXH4Tuadc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
